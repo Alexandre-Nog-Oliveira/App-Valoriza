@@ -1,0 +1,19 @@
+{
+  "name": "App-Valoriza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alexandre-Nog-Oliveira/App-Valoriza.git",
+  "author": "Alexandre Oliveira",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.15",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
